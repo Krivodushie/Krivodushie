@@ -9,7 +9,7 @@ Currently building a cross-genre multiplayer pixel game combining roguelike mech
 
 ## 🔥 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Krivodushie\&theme=dark\&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Krivodushie&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
